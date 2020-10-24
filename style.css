@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.main-carousel {
+    background: white;
+    padding-top: 10vh;
+}
+.carousel-cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+}
+.carousel-image{
+    border-radius: 10px;
+    width: 50%;
+}
